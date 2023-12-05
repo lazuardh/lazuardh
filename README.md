@@ -1,5 +1,3 @@
-
-<img align="center" alt="Mobile Developer" width="100%" src="<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/30b22612-aeed-481d-b2ed-22ed1be4b7a1/jOWHVow9L4.json" background="##FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>" />
 <h1 align="center">Hi 👋, I'm Habiyan lazuard you can call me bian or habiyan</h1>
 <h3 align="center">A passionate Mobile developer from Bandung West Java.</h3>
 
