@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Habiyan lazuard you can call me bian or habiyan</h1>
-<img alt="Mobile Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftheninehertz.com%2Fwp-content%2Fuploads%2F2020%2F06%2Ffull-stack-development.gif&f=1&nofb=1&ipt=84e7850d7aae59446ee143cdbefefcf877850f61a6a9318223aec2c63ca91163&ipo=images" />
-<h3 align="center">A passionate Mobile developer from Bandung West Java.</h3>
+<h1 align="center">Hi 👋, I'm What If</h1>
+<img alt="Mobile Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2001042%2Fscreenshots%2F4951997%2Fdevelopmentanimation.gif&f=1&nofb=1&ipt=786cc769f50776e1f077c721266a5c37dcbb7764444a1de21e2ec399c0d4449a&ipo=images" />
+<h3 align="justify">I am Software Engineering based in Bandung West Java, i am self motivated, responsible and hard worker. i can work well in a team and adapt well. I'm A passionate in Mobile developer.</h3>
 
 - 🌱 I’m currently learning **react native, react.js**
-
+- 👨‍💻 Some of my porto => https://drive.google.com/file/d/1iNRtkaobDBpxnNC6NI4NrkjW0fjlEzMJ/view?usp=sharing
+- 📄 Know about my experiences or cv **you can request via my email** 
 - 📫 How to reach me **habiyanlazuard21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
