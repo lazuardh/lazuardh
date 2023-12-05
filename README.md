@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habiyan lazuard you can call me bian or habiyan</h1>
+<img alt="Mobile Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftheninehertz.com%2Fwp-content%2Fuploads%2F2020%2F06%2Ffull-stack-development.gif&f=1&nofb=1&ipt=84e7850d7aae59446ee143cdbefefcf877850f61a6a9318223aec2c63ca91163&ipo=images" />
 <h3 align="center">A passionate Mobile developer from Bandung West Java.</h3>
 
 - 🌱 I’m currently learning **react native, react.js**
